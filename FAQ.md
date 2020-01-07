@@ -33,7 +33,8 @@
   **A:** The part where you have to sit down and start coding. Don’t postpone that or think about it at all, because you will rationalize yourself out of it. Approach it mechanically: sit down, open your laptop, launch your coding editor, and start typing. After 5 minutes, you will not feel any problems/procrastination/desire to stop.  
 
   **Q:** If everyone started on a certain day, should I join them on the day they are? For example, from Day 12?  
-  **A:** This challenge is individual, so when you join you start at day 1. Whenever you’ll be posting an update on Twitter or elsewhere, make sure to mention which day you are on and use the hashtag so that people can find and support you!  
+  **A:** This challenge is individual, so when you join you start at day 1. Whenever you’ll be posting an update on Twitter or elsewhere, make sure to mention which day you are on and use the hashtag so that people can find and support you!
+  **Q:** what is i stayed for more than one day far from the Challenge ? should i started over again from day one with writing the last progress or what rules should i follow ?
 
 ## Contents
 * [Rules](rules.md)
